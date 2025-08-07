@@ -11,7 +11,7 @@
   "dependencies": {
     "@react-navigation/bottom-tabs": "^6.5.7",
     "@react-navigation/native": "^6.1.6",
-    "@react-navigation/native-stack": "^6.9.12",
+    "@react-navigation/native-stack": "^6.11.0",
     "email-validator": "^2.0.4",
     "expo": "^48.0.16",
     "expo-document-picker": "~11.2.2",
